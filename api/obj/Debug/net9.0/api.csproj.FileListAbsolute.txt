@@ -173,3 +173,4 @@ C:\Users\amine\Documents\Finshark\api\obj\Debug\net9.0\refint\api.dll
 C:\Users\amine\Documents\Finshark\api\obj\Debug\net9.0\api.pdb
 C:\Users\amine\Documents\Finshark\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\amine\Documents\Finshark\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\amine\Documents\Finshark\api\obj\Debug\net9.0\api.sourcelink.json
